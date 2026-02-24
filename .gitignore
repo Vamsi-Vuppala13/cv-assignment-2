@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+frames/
+input_video.mp4
+outputs/detections.parquet
+outputs/retrieval_results.csv
+.DS_Store
+yolov8n.pt
