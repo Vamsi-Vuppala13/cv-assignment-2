@@ -1,4 +1,4 @@
-# CV Spring 2026 — Assignment 2 (Image-to-Video Retrieval)
+# CV Spring 2026 — Assignment 1(Image-to-Video Retrieval)
 
 ## Hugging Face (detections parquet)
 https://huggingface.co/datasets/VamsiVuppala/cv-a2-detections
